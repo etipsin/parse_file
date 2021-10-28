@@ -57,8 +57,3 @@ def test_multiply_document():
                    '***@afrinic.net 20050205',
         'source': 'AFRINIC'
     }
-
-
-if __name__ == "__main__":
-    test_single_document()
-    test_multiply_document()
